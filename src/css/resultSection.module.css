@@ -1,0 +1,20 @@
+
+.section {
+    background-color: #f7f8fd;
+
+    display: flex;
+    /*justify-content: center;*/
+}
+
+.widgetHeading {
+    color: #656565;
+    font-size:19px;
+    font-weight:500;
+    padding-left: 5px;
+
+    /*font-family: product-sans;*/
+    /*color: #656565;*/
+    /*font-size: 130%;*/
+    /*font-weight: 200;*/
+    /*text-decoration: none;*/
+}

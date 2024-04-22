@@ -1,0 +1,15 @@
+.magGlassContainer {
+    display: inline-block;
+    position: absolute;
+    height: 50px;
+    /*background-color: #4b33ad;*/
+    align-self: end;
+    padding: 5px;
+    margin-right: 3cm;
+}
+
+.magGlass {
+    width: 120px; /* Set the width of the icon */
+    height: 120px; /* Set the height of the icon */
+    fill: #d9dbe7; /* Set the fill color of the icon */
+}

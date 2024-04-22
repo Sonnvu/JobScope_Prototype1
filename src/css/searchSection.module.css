@@ -1,0 +1,15 @@
+.section {
+    background-color: #f9fbff;
+    height: 300px;
+    display: flex;
+    /*justify-content: center;*/
+}
+
+.container {
+    background-color: rgb(233, 223, 248);
+    height: 100%;
+    width:60%;
+    display: flex;
+    justify-content: center;
+    overflow: clip;
+}
