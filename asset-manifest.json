@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/JobScope_Prototype1/static/css/main.87e4f047.css",
+    "main.js": "/JobScope_Prototype1/static/js/main.3b910e5d.js",
+    "static/js/453.f96cba0c.chunk.js": "/JobScope_Prototype1/static/js/453.f96cba0c.chunk.js",
+    "static/media/Product Sans Bold.ttf": "/JobScope_Prototype1/static/media/Product Sans Bold.53df38d5491afbeb42a5.ttf",
+    "static/media/Product Sans Regular.ttf": "/JobScope_Prototype1/static/media/Product Sans Regular.d165384076551a756b3c.ttf",
+    "static/media/logoBlue.png": "/JobScope_Prototype1/static/media/logoBlue.027139853401332165c4.png",
+    "index.html": "/JobScope_Prototype1/index.html",
+    "main.87e4f047.css.map": "/JobScope_Prototype1/static/css/main.87e4f047.css.map",
+    "main.3b910e5d.js.map": "/JobScope_Prototype1/static/js/main.3b910e5d.js.map",
+    "453.f96cba0c.chunk.js.map": "/JobScope_Prototype1/static/js/453.f96cba0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e4f047.css",
+    "static/js/main.3b910e5d.js"
+  ]
+}
