@@ -3,6 +3,7 @@ import {Grid} from "@mui/material";
 import LocationSearchBar from "../../../utils/searchBar/LocationSearchBar";
 import TimeRange from "../../../utils/searchBar/TimeRange";
 import JobTypeSearch from "../../../utils/searchBar/JobTypeSearch";
+import GraphType from "../../../utils/searchBar/GraphType";
 
 export default function SearchFilter() {
     return (
@@ -13,7 +14,7 @@ export default function SearchFilter() {
             elevation={0}
         >
             <Grid container>
-                <Grid item xs={4}>
+                <Grid item xs={3}>
                     <LocationSearchBar placeHolder={"City, state, or zipcode"}/>
                 </Grid>
                 <Grid iten xs={2}>
@@ -21,6 +22,12 @@ export default function SearchFilter() {
                 </Grid>
                 <Grid iten xs={2}>
                     <JobTypeSearch placeHolder={"Entry level"}/>
+                </Grid>
+                <Grid iten xs={2}>
+                    <GraphType placeHolder={"Graph Type"}/>
+                </Grid>
+                <Grid iten xs={2}>
+                    <GraphType placeHolder={"Graph Type"}/>
                 </Grid>
             </Grid>
         </Box>

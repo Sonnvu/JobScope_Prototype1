@@ -16,7 +16,7 @@ export default function Header() {
                                 <NavLink to="/"><img className={styles.logo} src={logo} alt=""/></NavLink>
                                 <NavLink to="/home" className={styles.routerLink}>Home</NavLink>
                                 <NavLink to="/explore" className={styles.routerLink}>Explore</NavLink>
-                                <NavLink to="/search" className={styles.routerLink}>Dashboard</NavLink>
+                                <NavLink to="/dashboard" className={styles.routerLink}>Dashboard</NavLink>
                             </Stack>
                         </Grid>
                         <Grid item xs={2}>
